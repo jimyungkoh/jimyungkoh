@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jimyung Ko</h1>
+<h1 align="center">Hi 👋, I'm Jimyung</h1>
 <h3 align="center">🚀 Backend Developer 🚀</h3>
 
 ## 🛠 &nbsp;Tech Stack
