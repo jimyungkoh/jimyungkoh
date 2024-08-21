@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jimyung</h1>
 <h3 align="center">🚀 Backend Developer 🚀</h3>
 
-## 🛠 &nbsp;Tech Stack
+# 🛠 &nbsp;Tech Stack
 
 Stay tuned, folks, it's about to get real!
 
@@ -24,6 +24,13 @@ Stay tuned, folks, it's about to get real!
 
 ### DevOps -->
 
-## 📊 Some Statistics About Me
+# 📌 Top Projects
+
+[![sweatier-server](https://github-readme-stats.vercel.app/api/pin/?username=jimyungkoh&repo=sweatier-server&description_lines_count=1)](https://github.com/jimyungkoh/sweatier-server)
+[![seller-api-server](https://github-readme-stats.vercel.app/api/pin/?username=jimyungkoh&repo=iamseller-api-server&description_lines_count=1)](https://github.com/jimyungkoh/iamseller-api-server)
+
+[![board-api-server](https://github-readme-stats.vercel.app/api/pin/?username=jimyungkoh&repo=board-api-server&description_lines_count=1)](https://github.com/jimyungkoh/board-api-server)
+
+# 📊 Some Statistics About Me
 
 [![Jimyung's GitHub stats](https://github-readme-stats.vercel.app/api?username=jimyungkoh)](https://github.com/jimyungkoh/github-readme-stats)<br>
