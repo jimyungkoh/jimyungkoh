@@ -19,6 +19,7 @@
 &nbsp;![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 &nbsp;![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
 &nbsp;![TypeORM](https://img.shields.io/badge/TypeORM-000000?style=for-the-badge&logo=TypeORM&logoColor=white)
+&nbsp;![Mongoose](https://img.shields.io/badge/Mongoose-000000?style=for-the-badge&logo=Mongoose&logoColor=white)
 &nbsp;![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
 &nbsp;![RabbitMQ](https://img.shields.io/badge/rabbitmq-%23FF6600.svg?style=for-the-badge&logo=rabbitmq&logoColor=white)
 
