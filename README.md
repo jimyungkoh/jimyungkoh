@@ -47,3 +47,7 @@ Stay tuned...!
 ## 📊 Some Statistics About Me
 
 [![Jimyung's GitHub stats](https://github-readme-stats.vercel.app/api?username=jimyungkoh)](https://github.com/jimyungkoh/github-readme-stats)<br>
+
+## 📧 Contact Me
+
+- Email: kojimyung1206@naver.com
