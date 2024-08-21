@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Jimyung Ko</h1>
-<h3 align="center">🚀 Backend Developer 🚀</h3>
+
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=45B6FE&center=true&vCenter=true&width=435&lines=BE+Developer+Jimyung++%F0%9F%92%BB;Active+Learner+and..;Love+to+learn+new+stuffs+%3C3" alt="Typing SVG" /></a>
+</p>
 
 ## 🛠 &nbsp;Tech Stack
 
