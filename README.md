@@ -1,7 +1,5 @@
-<h1 align="center">Hi, I'm Jimyung Ko </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=45B6FE&center=true&vCenter=true&width=435&lines=BE+Developer+Jimyung++%F0%9F%92%BB;Active+Learner+and..;Love+to+learn+new+stuffs!" alt="Typing SVG" /></a>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=BE%20Developer%20Jimyung&section=header&fontSize=65&animation=fadeIn" alt="Typing SVG" />
 </p>
 
 ## 🛠 &nbsp;Tech Stack
@@ -55,6 +53,8 @@
 
 ## 📌 Top Projects
 
+[![homelog-client](https://github-readme-stats.vercel.app/api/pin/?username=jimyungkoh&repo=homelog-client&description_lines_count=1)](https://github.com/jimyungkoh/homelog-client)
+[![homelog-server](https://github-readme-stats.vercel.app/api/pin/?username=jimyungkoh&repo=homelog-server&description_lines_count=1)](https://github.com/jimyungkoh/homelog-server)
 [![sweatier-server](https://github-readme-stats.vercel.app/api/pin/?username=jimyungkoh&repo=sweatier-server&description_lines_count=1)](https://github.com/jimyungkoh/sweatier-server)
 [![seller-api-server](https://github-readme-stats.vercel.app/api/pin/?username=jimyungkoh&repo=iamseller-api-server&description_lines_count=1)](https://github.com/jimyungkoh/iamseller-api-server)
 [![board-api-server](https://github-readme-stats.vercel.app/api/pin/?username=jimyungkoh&repo=board-api-server&description_lines_count=1)](https://github.com/jimyungkoh/board-api-server)
