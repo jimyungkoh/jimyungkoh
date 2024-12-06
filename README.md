@@ -56,6 +56,7 @@
 
 ## 📌 Top Projects
 
+[![ecommerce-service](https://github-readme-stats.vercel.app/api/pin/?username=jimyungkoh&repo=ecommerce-service-server&description_lines_count=1)](https://github.com/jimyungkoh/ecommerce-service-server)
 [![homelog-client](https://github-readme-stats.vercel.app/api/pin/?username=jimyungkoh&repo=homelog-client&description_lines_count=1)](https://github.com/jimyungkoh/homelog-client)
 [![homelog-server](https://github-readme-stats.vercel.app/api/pin/?username=jimyungkoh&repo=homelog-server&description_lines_count=1)](https://github.com/jimyungkoh/homelog-server)
 [![sweatier-server](https://github-readme-stats.vercel.app/api/pin/?username=jimyungkoh&repo=sweatier-server&description_lines_count=1)](https://github.com/jimyungkoh/sweatier-server)
