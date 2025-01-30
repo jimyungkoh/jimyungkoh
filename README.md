@@ -65,7 +65,8 @@
 
 ## 📊 Some Statistics About Me
 
-[![Jimyung's GitHub stats](https://github-readme-stats.vercel.app/api?username=jimyungkoh)](https://github.com/jimyungkoh/github-readme-stats)<br>
+[![Jimyung's GitHub stats](https://github-readme-stats.vercel.app/api?username=jimyungkoh)](https://github.com/jimyungkoh/github-readme-stats)
+[![Solved.ac 프로필](https://mazassumnida.wtf/api/generate_badge?boj=kojimyung1206)](https://solved.ac/kojimyung1206/)
 
 ## 📧 Contact Me
 
