@@ -49,8 +49,11 @@
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)&nbsp;
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)&nbsp;
 
-<!--
-### DevOps -->
+## 🧩 Open Source
+
+[![done-list-generator](https://github-readme-stats.vercel.app/api/pin/?username=jimyungkoh&repo=done-list-generator&description_lines_count=1)](https://github.com/jimyungkoh/done-list-generator)
+
+🟢 [View on npm](https://www.npmjs.com/package/done-list-generator)
 
 ## 📌 Top Projects
 
