@@ -38,10 +38,6 @@
 ![GoogleCloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)&nbsp;
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)&nbsp;
 
-## 📊 Some Statistics About Me
-
-[![Jimyung's GitHub stats](https://github-readme-stats.vercel.app/api?username=jimyungkoh)](https://github.com/jimyungkoh/github-readme-stats)
-
 ## 📧 Contact Me
 
 - Email: aqaqeqeq0511@gmail.com
