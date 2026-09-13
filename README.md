@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=BE%20Developer%20Jimyung&section=header&fontSize=65&animation=fadeIn" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Product%20Engineer%20Jimyung&section=header&fontSize=65&animation=fadeIn" alt="Typing SVG" />
 </p>
 <a href="https://hhpluscertificateofcompletion.oopy.io/">
   <img src="https://static.spartacodingclub.kr/hanghae99/plus/completion/badge_red.svg" />
